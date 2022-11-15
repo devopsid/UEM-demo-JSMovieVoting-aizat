@@ -5,3 +5,4 @@ metadata:
 data:
   POSTGRES_HOST: postgres-service
   POSTGRES_PORT: "5432"
+  
