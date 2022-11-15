@@ -1,4 +1,4 @@
-# Movie Voting App (Javascript)
+# Movie Voting App (Javascript) test code changes
 
 ## Application Introduction
 
